@@ -1,3 +1,4 @@
+![logo](https://github.com/Avik-Idealprogrammer/Avik-Idealprogrammer/blob/main/background.jpg)
 <h1 align="center">Hi 👋, I'm Avik Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
