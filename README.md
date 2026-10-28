@@ -1,24 +1,24 @@
 ![logo](https://github.com/Avik-Idealprogrammer/Avik-Idealprogrammer/blob/main/background.jpg)
-<h1 align="center">Hi 👋, I'm Avik Gupta</h1>
+<h1 align="center">Hi, I'm Avik Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdoNWdoNmVyeHF4NHdneGkxczRjbm9ja3F5c3k5a3Y0eHc2cWEwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Jai Hind" align="right" width="400" height="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avik-idealprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="avik-idealprogrammer" /> </p>
 
-- 🔭 I’m currently working on [portfolio](https://avik-idealprogrammer.github.io/My-Portfolio/)
+-  I’m currently working on [portfolio](https://nestliving-ten.vercel.app/)
 
-- 🌱 I’m currently learning **React**
+-  I’m currently learning **PostgreSQL **
 
-- 👯 I’m looking to collaborate on **Sahyog**
+-  I’m looking to collaborate on **Nestliving**
 
-- 👨‍💻 All of my projects are available at [https://avik-idealprogrammer.github.io/My-Portfolio/](https://avik-idealprogrammer.github.io/My-Portfolio/)
+-  All of my projects are available at [Portfolio](https://portfolio-self-gamma-e4y03q39vv.vercel.app/)
 
-- 💬 Ask me about **Data Structures and Algorithms**
+-  Ask me about **Data Structures and Algorithms**
 
-- 📫 How to reach me **idealprogrammer01@gmail.com**
+-  How to reach me **idealprogrammer01@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+-  Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,12 +45,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
